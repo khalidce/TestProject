@@ -1,0 +1,13 @@
+1- git init    (start git in the desired folder)
+
+
+To check any changes in your folder
+
+2- git status
+
+To add any changes you make
+
+3- git add .
+
+To save any changes you have to use commit
+4- git commit -m"my first file added"
