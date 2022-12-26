@@ -11,3 +11,23 @@ To add any changes you make
 
 To save any changes you have to use commit
 4- git commit -m"my first file added"
+
+-------------------------------
+
+If you started a new account just use the following command
+or create a new repository on the command line
+echo "# TestProject" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/khalidce/TestProject.git
+git push -u origin main
+
+
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/khalidce/TestProject.git
+git branch -M main
+git push -u origin mainn
