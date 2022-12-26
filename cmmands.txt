@@ -1,3 +1,6 @@
+Ok... these commands are very imporant
+----------------------------------
+
 1- git init    (start git in the desired folder)
 
 
